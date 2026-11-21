@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChengluZhao
+- 👋 Hi, I’m @Chenglu Zhao
 - 👀 I’m interested in Mechine Learning, CV, Deep Learning, Embedded System, FPGA, Quartus
 - 🌱 I’m currently learning Mechine Learning, CV, Deep Learning.
 - 💞️ I’m looking to collaborate on ...
